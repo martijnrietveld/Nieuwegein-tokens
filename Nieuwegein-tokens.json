@@ -1919,7 +1919,7 @@
           "type": "fontFamilies"
         },
         "font-size": {
-          "value": "{og.document.font-size.large}",
+          "value": "{og.document.font-size.small}",
           "type": "fontSizes"
         },
         "font-weight": {
@@ -4760,21 +4760,11 @@
     }
   },
   "local/footer": {
-    "utrecht": {
-      "alert": {
+    "og": {
+      "footer": {
         "background": {
           "color": {
             "value": "{og.color.primary-color}",
-            "type": "color"
-          }
-        }
-      }
-    },
-    "og": {
-      "footer-dark": {
-        "link": {
-          "color": {
-            "value": "{og.color.white}",
             "type": "color"
           }
         }
