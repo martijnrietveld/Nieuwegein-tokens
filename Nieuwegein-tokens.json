@@ -437,11 +437,11 @@
           "type": "color"
         },
         "primary-color-dark": {
-          "value": "#02366e",
+          "value": "#742985",
           "type": "color"
         },
         "primary-color-light": {
-          "value": "#034fa0",
+          "value": "#9635ac",
           "type": "color"
         },
         "secondary-color": {
@@ -1898,7 +1898,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{og.border-radius.sm}"
+          "value": "{og.border-radius.round}"
         },
         "border-width": {
           "type": "borderWidth",
