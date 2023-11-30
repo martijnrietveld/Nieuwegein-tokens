@@ -433,7 +433,7 @@
           "type": "color"
         },
         "primary-color": {
-          "value": "#842F98",
+          "value": "#034387",
           "type": "color"
         },
         "primary-color-dark": {
@@ -1898,7 +1898,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{og.border-radius.round}"
+          "value": "{og.border-radius.sm}"
         },
         "border-width": {
           "type": "borderWidth",
